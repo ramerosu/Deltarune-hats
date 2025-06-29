@@ -2,8 +2,8 @@
 Deltarune関連のコスチュームを素人が作っていきます。
 ## 作成者
 **ごろにゃん**
-別名:ramerosu
-Discord:ramerosu
+- 別名:ramerosu
+- Discord:ramerosu
 
 ## 利用規約的
 - 自作発言禁止
