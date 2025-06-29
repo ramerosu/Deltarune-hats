@@ -56,21 +56,5 @@
 			"Package" : "5",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
-		}
-	],
-	"Visors" : [
-	],
-	"Nameplates" : [
-	],
-	"Stamps" : [
-	],
-	"Packages" : [
-		{
-			"Package" : "8",
-			"Format" : "Deltarune・Undertale-hats",
-			"Priority" : 1,
-			"IsLocalizable" : True
-		}
-	],
-	"IsLocalizable" : True
+		
 }
