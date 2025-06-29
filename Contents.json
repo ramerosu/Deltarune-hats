@@ -25,7 +25,7 @@
 			"FPS" : 1,
 			"Name" : "Ralsei",
 			"Author" : "ごろにゃん",
-			"Package" : "None",
+			"Package" : "Deltarune-hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -53,7 +53,7 @@
 			"FPS" : 1,
 			"Name" : "Tenna",
 			"Author" : "ごろにゃん",
-			"Package" : "None",
+			"Package" : "Deltarune-hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
