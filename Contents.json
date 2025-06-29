@@ -2,10 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "38296c81dd7778e343553fd687be9f56",
 				"Address" : "dYwRQe9db_Main.png",
@@ -21,19 +17,19 @@
 				"Address" : "dYwRQe9db_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Ralsei",
 			"Author" : "ごろにゃん",
-			"Package" : "20",
+			"Package" : "5",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
 				"Address" : "AtmmrGib_Main.png",
@@ -49,11 +45,15 @@
 				"Address" : "AtmmrGib_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Tenna",
 			"Author" : "ごろにゃん",
-			"Package" : "20",
+			"Package" : "5",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -66,10 +66,11 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "20",
+			"Package" : "5",
 			"Format" : "Deltarune・Undertale-hats",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
 	],
 	"IsLocalizable" : True
+}
