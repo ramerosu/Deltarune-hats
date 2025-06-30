@@ -10,3 +10,6 @@ Deltarune関連のコスチュームを素人が作っていきます。
 - 再配布禁止
 - 最低限のモラルとマナーを守ってもらい、常識の範囲内ならばご自由にどうぞ。
 - discord　DM可
+
+## Undertale二次創作ガイドライン
+- https://undertale.tumblr.com/post/139726155020/changing-policy-on-fan-merch
