@@ -57,6 +57,34 @@
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
+		{
+			"Climb" : {
+				"Hash" : "6f8f08ed99185fc9d297692e8be08a7a",
+				"Address" : "LQ32EdAeb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Main" : {
+				"Hash" : "d6473032cd6a3acd1ee40132d36b79bf",
+				"Address" : "LQ32EdAeb_Main.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "6f8f08ed99185fc9d297692e8be08a7a",
+				"Address" : "LQ32EdAeb_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Spamton",
+			"Author" : "ごろにゃん",
+			"Package" : "Deltarune・Undertale-hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
 	],
 	"Visors" : [
 	],
