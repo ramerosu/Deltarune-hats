@@ -2,60 +2,75 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "38296c81dd7778e343553fd687be9f56",
 				"Address" : "dYwRQe9db_Main.png",
-				"ExIsFront" : false
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "0479778a2f128b9262e94406fda7cac6",
 				"Address" : "dYwRQe9db_Climb.png",
-				"ExIsFront" : false
+				"ExIsFront" : False
 			},
 			"ClimbDown" : {
 				"Hash" : "0479778a2f128b9262e94406fda7cac6",
 				"Address" : "dYwRQe9db_ClimbDown.png",
-				"ExIsFront" : false
+				"ExIsFront" : False
 			},
-			"Bounce" : false,
-			"Adaptive" : false,
-			"HideHands" : false,
-			"IsSkinny" : false,
-			"SeekerCostume" : true,
+			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Ralsei",
 			"Author" : "ごろにゃん",
 			"Package" : "Deltarune・Undertale-hats",
-			"IsUnlockable" : false,
-			"IsLocalizable" : true
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
 				"Address" : "AtmmrGib_Main.png",
-				"ExIsFront" : false
+				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "e53ba21c6885138a880461e7d5637385",
 				"Address" : "AtmmrGib_Climb.png",
-				"ExIsFront" : false
+				"ExIsFront" : False
 			},
 			"ClimbDown" : {
 				"Hash" : "e53ba21c6885138a880461e7d5637385",
 				"Address" : "AtmmrGib_ClimbDown.png",
-				"ExIsFront" : false
+				"ExIsFront" : False
 			},
-			"Bounce" : false,
-			"Adaptive" : false,
-			"HideHands" : false,
-			"IsSkinny" : false,
-			"SeekerCostume" : true,
+			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Tenna",
 			"Author" : "ごろにゃん",
 			"Package" : "Deltarune・Undertale-hats",
-			"IsUnlockable" : false,
-			"IsLocalizable" : true
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
-	]
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Deltarune・Undertale-hats",
+			"Format" : "Deltarune・Undertale-hats",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
