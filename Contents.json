@@ -112,6 +112,34 @@
 			"Package" : "Deltarune・Undertale-hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1402c6a1a0af643c33fcd84bbe2e2754",
+				"Address" : "7FGRiShb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f9640de9c7335eae09934bd862307f25",
+				"Address" : "7FGRiShb_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "f9640de9c7335eae09934bd862307f25",
+				"Address" : "7FGRiShb_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Susie",
+			"Author" : "ごろにゃん",
+			"Package" : "Deltarune・Undertale-hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
