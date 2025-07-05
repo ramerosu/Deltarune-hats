@@ -2,6 +2,10 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "38296c81dd7778e343553fd687be9f56",
 				"Address" : "dYwRQe9db_Main.png",
@@ -17,19 +21,19 @@
 				"Address" : "dYwRQe9db_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Ralsei",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
 				"Address" : "AtmmrGib_Main.png",
@@ -45,19 +49,19 @@
 				"Address" : "AtmmrGib_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Tenna",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "d6473032cd6a3acd1ee40132d36b79bf",
 				"Address" : "LQ32EdAeb_Main.png",
@@ -73,19 +77,19 @@
 				"Address" : "LQ32EdAeb_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Spamton",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "347a41b056882edf84e6ea1ea3e4ddec",
 				"Address" : "u0obOViC_Main.png",
@@ -101,19 +105,19 @@
 				"Address" : "u0obOViC_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Lancer",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "1402c6a1a0af643c33fcd84bbe2e2754",
 				"Address" : "7FGRiShb_Main.png",
@@ -129,19 +133,19 @@
 				"Address" : "7FGRiShb_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Susie",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
 				"Address" : "0PYaKuCoc_Main.png",
@@ -162,19 +166,19 @@
 				"Address" : "0PYaKuCoc_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "K\._Round",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
 				"Address" : "nWZhg8nub_Main.png",
@@ -190,15 +194,11 @@
 				"Address" : "nWZhg8nub_ClimbDown.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "color-K\._Round",
 			"Author" : "ごろにゃん",
-			"Package" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
@@ -211,8 +211,8 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "Deltarune・Undertale-hats",
-			"Format" : "Deltarune・Undertale-hats",
+			"Package" : "RockCat-Lab",
+			"Format" : "RockCat-Lab",
 			"Priority" : 1,
 			"IsLocalizable" : True
 		}
