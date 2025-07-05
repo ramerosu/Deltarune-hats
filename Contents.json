@@ -140,6 +140,39 @@
 			"Package" : "Deltarune・Undertale-hats",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
+				"Address" : "0PYaKuCoc_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
+				"Address" : "0PYaKuCoc_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c56d75b7f90e04b10593302cd595fd69",
+				"Address" : "0PYaKuCoc_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "c56d75b7f90e04b10593302cd595fd69",
+				"Address" : "0PYaKuCoc_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "K\._Round",
+			"Author" : "ごろにゃん",
+			"Package" : "Deltarune・Undertale-hats",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
