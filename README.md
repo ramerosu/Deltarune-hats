@@ -1,5 +1,5 @@
-# Deltarune-Hats
-Deltarune関連のコスチュームを素人が作っていきます。
+# RockCat-Lab
+Deltaruneなどのコスチュームを素人が作っていきます。
 ## 作成者
 - **ごろにゃん**
   - 別名:ramerosu
@@ -11,5 +11,6 @@ Deltarune関連のコスチュームを素人が作っていきます。
 - 最低限のモラルとマナーを守ってもらい、常識の範囲内ならばご自由にどうぞ。
 - discord　DM可
 
-## Undertale二次創作ガイドライン
+## 主に作るもののガイドラインリンク
+### Undertale二次創作ガイドライン
 - https://undertale.tumblr.com/post/139726155020/changing-policy-on-fan-merch
