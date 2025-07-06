@@ -201,6 +201,95 @@
 			"Package" : "RockCat-Lab",
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"Main" : {
+				"Hash" : "dc85398edc0c0e1e9f4e6e149fd502b2",
+				"Address" : "r0kNwi_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c8d1e70dc8f510c85590b577bb9990ea",
+				"Address" : "r0kNwi_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "c8d1e70dc8f510c85590b577bb9990ea",
+				"Address" : "r0kNwi_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "ddb01548e19b49af496bf2434b6ab2ed",
+				"Address" : "r0kNwi_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Kris",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : False,
+			"Bounce" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"Main" : {
+				"Hash" : "43eb83ba7645c62f07491b301e09ea5b",
+				"Address" : "deNBNRy9_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "8a7893d6cf3b7d50de1e38c44e840091",
+				"Address" : "deNBNRy9_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "8a7893d6cf3b7d50de1e38c44e840091",
+				"Address" : "deNBNRy9_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Starwalker",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Adaptive" : True,
+			"Bounce" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"Main" : {
+				"Hash" : "2e9601c91eefb4d24fdda5930997ecd9",
+				"Address" : "rPdPwIMU_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "205f8b82f4f5f273591f8199721b3ed5",
+				"Address" : "rPdPwIMU_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "205f8b82f4f5f273591f8199721b3ed5",
+				"Address" : "rPdPwIMU_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "color_walker",
+			"Author" : "ごろにゃん",
+			"Package" : "RockCat-Lab",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
