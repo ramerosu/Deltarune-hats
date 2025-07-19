@@ -2,10 +2,6 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "38296c81dd7778e343553fd687be9f56",
 				"Address" : "dYwRQe9db_Main.png",
@@ -21,6 +17,10 @@
 				"Address" : "dYwRQe9db_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Ralsei",
@@ -30,10 +30,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "f3937067fa93c0b359fb424afd97c6db",
 				"Address" : "AtmmrGib_Main.png",
@@ -49,6 +45,10 @@
 				"Address" : "AtmmrGib_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Tenna",
@@ -58,10 +58,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "d6473032cd6a3acd1ee40132d36b79bf",
 				"Address" : "LQ32EdAeb_Main.png",
@@ -77,6 +73,10 @@
 				"Address" : "LQ32EdAeb_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Spamton",
@@ -86,10 +86,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "347a41b056882edf84e6ea1ea3e4ddec",
 				"Address" : "u0obOViC_Main.png",
@@ -105,6 +101,10 @@
 				"Address" : "u0obOViC_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Lancer",
@@ -114,10 +114,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "1402c6a1a0af643c33fcd84bbe2e2754",
 				"Address" : "7FGRiShb_Main.png",
@@ -133,6 +129,10 @@
 				"Address" : "7FGRiShb_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Susie",
@@ -142,10 +142,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
 				"Address" : "0PYaKuCoc_Main.png",
@@ -166,6 +162,10 @@
 				"Address" : "0PYaKuCoc_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "K\._Round",
@@ -175,10 +175,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "fbe16d8e24cbdea8c62ce44a6193dcec",
 				"Address" : "nWZhg8nub_Main.png",
@@ -194,6 +190,10 @@
 				"Address" : "nWZhg8nub_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "color-K\._Round",
@@ -203,10 +203,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "dc85398edc0c0e1e9f4e6e149fd502b2",
 				"Address" : "r0kNwi_Main.png",
@@ -227,6 +223,10 @@
 				"Address" : "r0kNwi_EnterVent.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Kris",
@@ -236,10 +236,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : True,
-			"HideHands" : True,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "43eb83ba7645c62f07491b301e09ea5b",
 				"Address" : "deNBNRy9_Main.png",
@@ -255,6 +251,10 @@
 				"Address" : "deNBNRy9_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : True,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Starwalker",
@@ -264,10 +264,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : True,
-			"HideHands" : True,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "2e9601c91eefb4d24fdda5930997ecd9",
 				"Address" : "rPdPwIMU_Main.png",
@@ -283,6 +279,10 @@
 				"Address" : "rPdPwIMU_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "color_walker",
@@ -292,10 +292,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "7e6d133c28ef452e9b51f8858731285c",
 				"Address" : "2uyYgjab_Main.png",
@@ -311,6 +307,10 @@
 				"Address" : "2uyYgjab_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Jevil",
@@ -320,10 +320,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : True,
-			"Bounce" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "76a5fdca0a4e70a1853f42517d2904b0",
 				"Address" : "7bmqfBph_Main.png",
@@ -339,6 +335,10 @@
 				"Address" : "7bmqfBph_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : True,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "color　Jevil",
@@ -348,10 +348,6 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Adaptive" : False,
-			"Bounce" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"Main" : {
 				"Hash" : "0fa46ea553a748c7fc588b6fa452932d",
 				"Address" : "i8Mig9Hjc_Main.png",
@@ -367,6 +363,10 @@
 				"Address" : "i8Mig9Hjc_ClimbDown.png",
 				"ExIsFront" : False
 			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "Rouxls_Kaard",
